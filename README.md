@@ -10,15 +10,16 @@ Machine Learning, Forecasting, and Predictive Analytics.
 
 ---
 
-<h2 align="center">🎮 My GitHub Space Shooter</h2>
+## 🎮 Interactive Zone (Daily Updated)
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/debangshu9183/debangshu9183/main/assets/space-shooter.gif"
     alt="Space Shooter Game"
-    width="650"
+    width="2000"
   />
 </p>
+
 
 ---
 
@@ -37,7 +38,7 @@ src="https://cdn.dribbble.com/userupload/7306884/file/original-b30171c7478610ad5
 - 👨‍💻 All of my projects are available at  
   👉 [https://github.com/debangshu9183](https://github.com/debangshu9183)
 - 💬 Ask me about **Statistics, ML, Forecasting**
-- 📫 How to reach me **debnagshumessi@gmail.com**
+- 📫 How to reach me **debnagshu.data@gmail.com**
 
 ---
 
